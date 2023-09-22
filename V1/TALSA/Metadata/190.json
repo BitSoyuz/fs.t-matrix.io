@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #190",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/190.png",
+  "edition": 190,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ashtown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Detective"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tigereye"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "D"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Olive"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Key earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "D"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Fascinator"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ]
+}

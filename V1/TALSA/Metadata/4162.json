@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #4162",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/4162.png",
+  "edition": 4162,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nefaria"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Chief offier"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Chrysocolla"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "A"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Cobalt"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black round earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "A"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Vintage monocle"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ]
+}

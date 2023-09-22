@@ -1,0 +1,12 @@
+{
+  "name": "송도고래",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/2.png",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Member",
+      "value": "TALSA"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "JMKOREA",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/1019.png",
+  "edition": 1019,
+  "attributes": [
+    {
+      "trait_type": "Member",
+      "value": "TALSA"
+    }
+  ]
+}

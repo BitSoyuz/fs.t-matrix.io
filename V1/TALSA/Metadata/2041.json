@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #2041",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/2041.png",
+  "edition": 2041,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lost Angeles"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Professor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Garnet"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "C"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Screw earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "A"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Bowler Hat (Tall)"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #2268",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/2268.png",
+  "edition": 2268,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Withervale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Detective"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "E"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "B"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Black Raven"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Kinetic Gear earrigns"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    }
+  ]
+}

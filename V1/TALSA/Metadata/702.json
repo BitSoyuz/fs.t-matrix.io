@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #702",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/702.png",
+  "edition": 702,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Promise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Professor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Jade"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "C"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "C"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Gas Mask"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    }
+  ]
+}

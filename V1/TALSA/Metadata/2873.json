@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #2873",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/2873.png",
+  "edition": 2873,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ashtown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Military Officer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "D"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "C"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ]
+}

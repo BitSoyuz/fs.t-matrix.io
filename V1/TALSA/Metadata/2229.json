@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #2229",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/2229.png",
+  "edition": 2229,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ashtown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Madam"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "E"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Berry"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "D"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Bowler Hat (Tall)"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ]
+}

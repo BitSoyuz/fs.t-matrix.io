@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #3486",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/3486.png",
+  "edition": 3486,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lost Angeles"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Archer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pyrite"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "D"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "A"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Red Mask"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    }
+  ]
+}

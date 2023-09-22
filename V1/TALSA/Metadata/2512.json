@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #2512",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/2512.png",
+  "edition": 2512,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Withervale"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Chief offier"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Moonstone"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "A"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pine"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Kinetic Gear earrigns"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "A"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Vintage monocle"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ]
+}

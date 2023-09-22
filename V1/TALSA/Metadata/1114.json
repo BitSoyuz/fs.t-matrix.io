@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #1114",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/1114.png",
+  "edition": 1114,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Promise"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Assasin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Jade"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "E"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "E"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Mahogany"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Black Mask"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Piercing accessories"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    }
+  ]
+}

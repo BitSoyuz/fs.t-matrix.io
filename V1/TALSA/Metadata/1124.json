@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #1124",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/1124.png",
+  "edition": 1124,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Doomsville"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "mechanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tanzanite"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "A"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "D"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Black Raven"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Key earrings"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    }
+  ]
+}

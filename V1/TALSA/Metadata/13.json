@@ -1,0 +1,12 @@
+{
+  "name": "FIRST PRO",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/13.png",
+  "edition": 13,
+  "attributes": [
+    {
+      "trait_type": "Member",
+      "value": "TALSA"
+    }
+  ]
+}

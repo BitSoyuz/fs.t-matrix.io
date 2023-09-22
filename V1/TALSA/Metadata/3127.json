@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #3127",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/3127.png",
+  "edition": 3127,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ashtown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bloodstone"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "E"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Wine"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "B"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Spikey Rivet Goggles"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ]
+}

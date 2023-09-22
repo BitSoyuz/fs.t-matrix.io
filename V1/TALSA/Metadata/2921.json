@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #2921",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/2921.png",
+  "edition": 2921,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Daybreak"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Archer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Chrysocolla"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "C"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Caramel"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Kinetic Gear earrigns"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "E"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Vintage monocle"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ]
+}

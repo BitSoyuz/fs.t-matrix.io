@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #1380",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/1380.png",
+  "edition": 1380,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nefaria"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Hunter"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "B"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Vintage leather earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "A"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Fascinator"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ]
+}

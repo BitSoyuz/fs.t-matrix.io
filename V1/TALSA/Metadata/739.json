@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #739",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/739.png",
+  "edition": 739,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ecstacity"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Nobleman"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Moonstone"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "D"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Shamrock"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Screw earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "C"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ]
+}

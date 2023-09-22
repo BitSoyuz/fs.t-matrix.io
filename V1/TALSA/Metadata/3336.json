@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #3336",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/3336.png",
+  "edition": 3336,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nefaria"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Noblewoman"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "B"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Rouge"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Screw earrings"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "E"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Bowler Hat (Tall)"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ]
+}

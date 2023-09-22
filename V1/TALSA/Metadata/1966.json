@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #1966",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/1966.png",
+  "edition": 1966,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eclipse"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Emerald"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "A"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Blond"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Piercing accessories"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "D"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Bowler Hat (Short)"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "None"
+    }
+  ]
+}

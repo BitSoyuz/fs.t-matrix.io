@@ -1,0 +1,52 @@
+{
+  "name": "TALSA PASS #4342",
+  "description": "A Pass to the TALSA Community. Welcome to Earth 2!",
+  "image": "https://fs.t-matrix.io/V1/TALSA/Image/4342.png",
+  "edition": 4342,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nefaria"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Costume",
+      "value": "Assasin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Garnet"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "D"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "B"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Brown Raven"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Kinetic Gear earrigns"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    }
+  ]
+}
